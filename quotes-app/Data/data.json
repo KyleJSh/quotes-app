@@ -1,0 +1,62 @@
+[
+    {
+        "name":"Jordan Peterson",
+        "image":"jordan peterson",
+        "image2":"jordan2",
+        "quotes":[
+            "The purpose of life is finding the largest burden that you can bear and bearing it.",
+            "When you have something to say, silence is a lie.",
+            "If you fulfill your obligations everyday you don't need to worry about the future.",
+            "It took untold generations to get you where you are. A little gratitude might be in order. If you're going to insist on bending the world to your way, you better have your reasons.",
+            "You can only find out what you actually believe (rather than what you think you believe) by watching how you act. You simply don’t know what you believe, before that. You are too complex to understand yourself."
+        ]
+    },
+    {
+        "name":"Matthew McConaughey",
+        "image":"matthew mcconaughey",
+        "image2":"matthew2",
+        "quotes":[
+            "You want to be a writer? Start writing. You want to be a filmmaker? Start shooting stuff on your phone right now.",
+            "If I’m doing something I do like to take it to the limit. I’ve got a high ceiling. A wide threshold for seeing what those boundaries are for myself. I’m very resilient inside. I find things that I like and do and boy, I do like to stick to them.",
+            "I believe in living in the present and making each day count. I don’t pay much attention to the past or the future.",
+            "The best education I’ve had in my life is to travel.",
+            "It’s a scientific fact that gratitude reciprocates."
+        ]
+    },
+    {
+        "name":"Arnold Schwarzenegger",
+        "image":"arnold schwarzenegger",
+        "image2":"arnold2",
+        "quotes":[
+            "I'll be back!",
+            "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.",
+            "Just like in bodybuilding, failure is also a necessary experience for growth in our own lives, for if we’re never tested to our limits, how will we know how strong we really are? How will we ever grow?",
+            "For me life is continuously being hungry. The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer.",
+            "The resistance that you fight physically in the gym and the resistance that you fight in life can only build a strong character."
+        ]
+    },
+    {
+        "name":"Elon Musk",
+        "image":"elon musk",
+        "image2":"elon2",
+        "quotes":[
+            "When something is important enough, you do it even if the odds are not in your favor.",
+            "When Henry Ford made cheap, reliable cars, people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked.",
+            "It's OK to have your eggs in one basket as long as you control what happens to that basket.",
+            "The first step is to establish that something is possible; then probability will occur.",
+            "If you go back a few hundred years, what we take for granted today would seem like magic-being able to talk to people over long distances, to transmit images, flying, accessing vast amounts of data like an oracle. These are all things that would have been considered magic a few hundred years ago."
+        ]
+    },
+    {
+        "name":"Joe Rogan",
+        "image":"joe rogan",
+        "image2":"joe2",
+        "quotes":[
+            "One of the most fascinating lessons I’ve absorbed about life is that the struggle is good.",
+            "Be cool to people.  Be nice to as many people as you can.  Smile to as many people as you can, and have them smile back at you.",
+            "There’s a direct correlation between positive energy and positive results in the physical form.",
+            "Reality really is a theatre. There’s no other way to describe it.  It’s all so nonsensical, ridiculous and chaotic.",
+            "We define ourselves far too often by our past failures.  That’s not you.  You are this person right now.  You’re the person who has learned from those failures."
+        ]
+    }
+]
